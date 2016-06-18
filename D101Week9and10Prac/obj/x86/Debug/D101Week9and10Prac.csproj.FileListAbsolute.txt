@@ -1,0 +1,28 @@
+c:\users\michael\documents\visual studio 2010\Projects\D101Week9and10Prac\D101Week9and10Prac\bin\Debug\D101Week9and10Prac.exe
+c:\users\michael\documents\visual studio 2010\Projects\D101Week9and10Prac\D101Week9and10Prac\bin\Debug\D101Week9and10Prac.pdb
+c:\users\michael\documents\visual studio 2010\Projects\D101Week9and10Prac\D101Week9and10Prac\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2010\Projects\D101Week9and10Prac\D101Week9and10Prac\obj\x86\Debug\D101Week9and10Prac.Form1.resources
+c:\users\michael\documents\visual studio 2010\Projects\D101Week9and10Prac\D101Week9and10Prac\obj\x86\Debug\D101Week9and10Prac.Properties.Resources.resources
+c:\users\michael\documents\visual studio 2010\Projects\D101Week9and10Prac\D101Week9and10Prac\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\michael\documents\visual studio 2010\Projects\D101Week9and10Prac\D101Week9and10Prac\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\michael\documents\visual studio 2010\Projects\D101Week9and10Prac\D101Week9and10Prac\obj\x86\Debug\D101Week9and10Prac.exe
+c:\users\michael\documents\visual studio 2010\Projects\D101Week9and10Prac\D101Week9and10Prac\obj\x86\Debug\D101Week9and10Prac.pdb
+c:\users\michael\documents\visual studio 2010\Projects\D101Week9and10Prac\D101Week9and10Prac\bin\Debug\Presets.txt
+D:\BICT\Software Development\D101Week9and10Prac\D101Week9and10Prac\obj\x86\Debug\D101Week9and10Prac.exe
+D:\BICT\Software Development\D101Week9and10Prac\D101Week9and10Prac\obj\x86\Debug\D101Week9and10Prac.pdb
+D:\BICT\Software Development\D101Week9and10Prac\D101Week9and10Prac\bin\Debug\Presets.txt
+D:\BICT\Software Development\D101Week9and10Prac\D101Week9and10Prac\bin\Debug\D101Week9and10Prac.exe
+D:\BICT\Software Development\D101Week9and10Prac\D101Week9and10Prac\bin\Debug\D101Week9and10Prac.pdb
+D:\BICT\Software Development\D101Week9and10Prac\D101Week9and10Prac\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\BICT\Software Development\D101Week9and10Prac\D101Week9and10Prac\obj\x86\Debug\D101Week9and10Prac.Form1.resources
+D:\BICT\Software Development\D101Week9and10Prac\D101Week9and10Prac\obj\x86\Debug\D101Week9and10Prac.Properties.Resources.resources
+D:\BICT\Software Development\D101Week9and10Prac\D101Week9and10Prac\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\BICT\Software Development\D101Week9and10Prac\D101Week9and10Prac\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\BICT\Year 1\Software Development\D101Week9and10Prac\D101Week9and10Prac\obj\x86\Debug\D101Week9and10Prac.exe
+D:\BICT\Year 1\Software Development\D101Week9and10Prac\D101Week9and10Prac\obj\x86\Debug\D101Week9and10Prac.pdb
+D:\BICT\Year 1\Software Development\D101Week9and10Prac\D101Week9and10Prac\bin\Debug\Presets.txt
+D:\BICT\Year 1\Software Development\D101Week9and10Prac\D101Week9and10Prac\bin\Debug\D101Week9and10Prac.exe
+D:\BICT\Year 1\Software Development\D101Week9and10Prac\D101Week9and10Prac\bin\Debug\D101Week9and10Prac.pdb
+D:\BICT\Year 1\Software Development\D101Week9and10Prac\D101Week9and10Prac\obj\x86\Debug\D101Week9and10Prac.Form1.resources
+D:\BICT\Year 1\Software Development\D101Week9and10Prac\D101Week9and10Prac\obj\x86\Debug\D101Week9and10Prac.Properties.Resources.resources
+D:\BICT\Year 1\Software Development\D101Week9and10Prac\D101Week9and10Prac\obj\x86\Debug\D101Week9and10Prac.csproj.GenerateResource.Cache

@@ -1,0 +1,2 @@
+waw,12,15,Green,42,23,Orange,15,75,Black
+wewew,76,56,Blue,55,74,White,80,78,Purple
